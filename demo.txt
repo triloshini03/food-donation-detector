@@ -1,0 +1,4 @@
+This project is a prototype Food Donation Detector.
+
+The system simulates food freshness detection using a simple logic.
+Future work includes implementing AI/ML models for real-time detection.
